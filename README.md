@@ -25,8 +25,6 @@ Esse projeto é um artigo em formato de página web que mostra:
 - como reproduzir os problemas na prática;
 - como a **2ª e a 3ª forma normal** resolvem tudo isso.
 
-> 🧪 Todos os dados são fictícios, então pode brincar à vontade.
-
 ## 📚 O que tem no artigo
 
 | # | Seção | Resumo |

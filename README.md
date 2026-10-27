@@ -110,7 +110,7 @@ Trabalho feito pela galera do 2º semestre:
 - [Alura: normalização de banco de dados](https://www.alura.com.br/artigos/normalizacao-banco-de-dados-estrutura)
 - [DataCamp: normalização em SGBDs](https://www.datacamp.com/pt/tutorial/normalization-in-dbms)
 
-
+- *Link do artigo: https://paginaweb-one-eosin.vercel.app/*
 ---
 
 <div align="center">
